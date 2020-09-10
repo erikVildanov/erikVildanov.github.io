@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [{
 			"appID": "Z3HF47XY54.com.cloudberrylab.remoteassistant",
-			"paths": ["/cblra/*"]
+			"paths": ["*"]
 		}]
 	}
 }
