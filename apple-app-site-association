@@ -1,0 +1,9 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "K8VX5L7PZA.com.cloudberrylab.remoteassistant",
+			"paths": ["/cblra/*"]
+		}]
+	}
+}
