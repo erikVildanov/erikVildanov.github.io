@@ -1,16 +1,9 @@
 {
 	"applinks": {
 		"apps": [],
-		"details": [{
-			"appID": "5923NU659H.com.cloudberrylab.remoteassistant",
-			"paths": ["*"]
-		}, 
+		"details": [ 
 		{
 			"appID": "Z3HF47XY54.com.cloudberrylab.remoteassistant",
-			"paths": ["*"]
-		},
-		{
-			"appID": "GKWY72BVFN.com.cloudberrylab.remoteassistant",
 			"paths": ["*"]
 		},
 		{
